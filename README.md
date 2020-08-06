@@ -1,7 +1,6 @@
 
-                              
-                         Ownership at Large
-                  Open Problems and Challenges in Ownership Management
+###                              Ownership at Large
+###                  Open Problems and Challenges in Ownership Management
 
 
 ## Summary
