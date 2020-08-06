@@ -1,9 +1,9 @@
 #                   QNO 1
-##                              Ownership at Large
-###                  Open Problems and Challenges in Ownership Management
+#                              Ownership at Large
+#                  Open Problems and Challenges in Ownership Management
 
 
-#### Summary
+# Summary
 
 Authurs:
 JohnAhlgren  ,Maria Eugenia Berezin, Kinga Bojarczuk, Elena Dulskyte ,Inna Dvortsova ,Johann   George, Natalija Gucevska, Mark Harman, ShanHe, Ralf Lämmel, ErikMeijer, Silvia Sapora, and Justin Spahr -Summers∗ FacebookInc.
