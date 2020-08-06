@@ -22,6 +22,6 @@
 #### The accompanying space explicit requirements challenge the arrangement of interpretable and reasonable models for possession suggestion; devoted exploration is required in this way: The attribution connection among resources and proprietor applicants might be naturally uncertain.
 ## Result : 
 ##### This paper describes the overall idea of possession the board and the particular parts of utilizing proprietorship proposal for ascribing advantages for proprietors and estimating the wellbeing of any such attribution for huge and complex activities and frameworks. The suggestion of reasonable proprietors and the evaluation of possession wellbeing depends on information removed from resources, work processes and authoritative structures. 
-They have acquainted the Facebook Ownesty framework with delineate the pragmatic modern significance of the going with proprietorship research plan. 
-We additionally set out open issues and challenges and their connections to existing examination exercises and networks.
+#### They have acquainted the Facebook Ownesty framework with delineate the pragmatic modern significance of the going with proprietorship research plan. 
+#### We additionally set out open issues and challenges and their connections to existing examination exercises and networks.
 
