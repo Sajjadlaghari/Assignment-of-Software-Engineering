@@ -5,7 +5,7 @@
 
 # Summary
 
-### Authurs:
+### Authors:
 #### JohnAhlgren  ,Maria Eugenia Berezin, Kinga Bojarczuk, Elena Dulskyte ,Inna Dvortsova ,Johann   George, Natalija Gucevska, Mark Harman, ShanHe, Ralf Lämmel, ErikMeijer, Silvia Sapora, and Justin Spahr -Summers∗ FacebookInc.
 
 ## Conference :
@@ -65,7 +65,7 @@
 
 # Improved Automatic Summarization of Subroutines via Attention to File Context 
 
-## Arthur :
+## Authors :
 ### Sakib Haque , Alexander LeClair , Lingfei Wu , Collin McMillan 
 
 ## Conference :
